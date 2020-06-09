@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.navbar{
+    height: 100%;
+    background-color: teal;
+    position: fixed;
+    width: 100%;
+}
+
+   .logo{
+       height: 20px;
+
+   }
+
+
+.navbar1{
+    height: 50px;
+}
+
+
+.navbar-brand > img{
+    width: 130px !important;
+    height: 100px; 
+    display: inline-block;
+}
+
+.form-inline{
+    float: right;
+    padding-right: 20px;
+    
+}
+
+ /* .fa fa-shopping-cart{
+     width: 100px !important;
+     height: 50% !important;
+ }
+  */
+  /*   */
+
+  .carousel-inner,.container{
+    margin-top: 30px ;
+    
+  }
+  .hading,.hading1,.hading3{
+      background-color:teal ;
+      text-decoration: underline black;
+    
+  }
+
+  .hading3{
+      height: 70px;
+  }
+
+  /* .hading1{
+      width:700px ;
+  } */
+
+  .container2{
+      background-color:teal;
+      /* color: teal; */
+      margin-top: 50px;
+      border: solid black;
+      height: 300PX;
+    
+  }
+
+  .row1{
+      margin-top: 30px;
+  }
+
+.container1{
+    margin-top: 0;
+    color: lightseagreen;
+}
+.col-md-4 a{
+    color: black;
+}
+.submenu{
+    list-style: none;
+}
+
+.search{
+    margin-top: 10px;
+}
+
+.d-block{
+    height: 300px;
+    width: 100px;
+}
+
+.top{
+    height: 200px;
+}
+
+.left{
+    height: 250px;
+}
+
+.nav-link:hover{
+    background-color:turquoise;
+}
+
+.intro,.goals,.services,.hading4{
+   text-align: center;
+   margin-top: 50px;
+   background-color:black;
+   color: mediumseagreen;
+   width: 400px;
+   height: 200px;
+   text-decoration: underline mediumaquamarine;
+}
+
+
+.hading4{
+    text-align: center;
+   margin-top: 50px;
+   background-color:black;
+   color: mediumseagreen;
+   width: 400px;
+   height: 90px;
+   text-decoration: underline mediumaquamarine;
+}
+.order,.thanks{
+    text-align: center;
+    background-color:black;
+    color:mediumseagreen;
+    width: 400px;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-decoration: underline mediumaquamarine;
+
+}
+
+
+
+.services > ul{
+    list-style: none;
+}
+.form{
+    max-width: 500px;
+    min-width: 250px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: teal;
+    margin-top: 50px;
+    padding: 20px;
+    color: black;   
+}
+.body,.body1{
+    background-color:rgb(23, 70, 68);
+    
+}
+.body:hover{
+    background-color: black;
+}
+
+.button{
+    color: black;
+    background-color:white;
+    border: black solid 2px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.button:hover{
+    background-color:mediumseagreen ;
+}
+
+.thanks{
+    padding: 20px;
+    margin-top: 100px;
+}
+
+.emoji{
+    width: 200px ;
+    margin-top: 30px;
+}
+
+.carousel slide{
+    margin-top: 50px;
+}
+.container3{
+    background-color: lightseagreen;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.card-text{
+    text-decoration: underline BLACK;
+}
+
+.buton{
+border: solid black;
+width: 70px;
+height: 70px;
+background-color: mediumseagreen;
+color: white;
+}
+
+.form{
+    
+    height: 100%;
+}
